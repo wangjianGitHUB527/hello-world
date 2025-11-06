@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0" version="28.2.5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0" version="28.2.9">
   <diagram name="第 1 页" id="vS-fdhlrBTKHiCWWrgzV">
-    <mxGraphModel dx="4547" dy="2280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3858" dy="1910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -270,7 +270,7 @@
         <mxCell id="vmPkMJgBcQKJt-pwfi7v-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="vmPkMJgBcQKJt-pwfi7v-103" target="vmPkMJgBcQKJt-pwfi7v-107" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IddMJPemw8FOrO92rj6B-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="vmPkMJgBcQKJt-pwfi7v-103" target="IddMJPemw8FOrO92rj6B-2">
+        <mxCell id="IddMJPemw8FOrO92rj6B-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="vmPkMJgBcQKJt-pwfi7v-103" target="IddMJPemw8FOrO92rj6B-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="599" as="targetPoint" />
           </mxGeometry>
@@ -307,10 +307,10 @@
             <mxPoint x="470" y="857" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IddMJPemw8FOrO92rj6B-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vmPkMJgBcQKJt-pwfi7v-113" target="IddMJPemw8FOrO92rj6B-6">
+        <mxCell id="IddMJPemw8FOrO92rj6B-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vmPkMJgBcQKJt-pwfi7v-113" target="IddMJPemw8FOrO92rj6B-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IddMJPemw8FOrO92rj6B-8" value="高可用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IddMJPemw8FOrO92rj6B-7">
+        <mxCell id="IddMJPemw8FOrO92rj6B-8" value="高可用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IddMJPemw8FOrO92rj6B-7" vertex="1" connectable="0">
           <mxGeometry x="0.0545" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -425,7 +425,7 @@
         <mxCell id="vmPkMJgBcQKJt-pwfi7v-143" value="&lt;div&gt;缓存击穿是因为单个热点数据缓存失效导致的。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;缓存穿透是因为查询的数据不存在，原因可能是自身的业务代码有问题或者是恶意攻击造成的。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;缓存雪崩则是大量的key同时失效导致的&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-728" y="50" width="120" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="IddMJPemw8FOrO92rj6B-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vmPkMJgBcQKJt-pwfi7v-144" target="IddMJPemw8FOrO92rj6B-35">
+        <mxCell id="IddMJPemw8FOrO92rj6B-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vmPkMJgBcQKJt-pwfi7v-144" target="IddMJPemw8FOrO92rj6B-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vmPkMJgBcQKJt-pwfi7v-144" value="&lt;b style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: rgb(255, 0, 0);&quot;&gt;如何确保缓冲与数据库的一致性&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -543,7 +543,7 @@
           <mxGeometry x="-64.04000000000002" y="-470" width="204.04" height="178.5" as="geometry" />
         </mxCell>
         <mxCell id="vmPkMJgBcQKJt-pwfi7v-181" value="最重要的的一点是，Redis 事务不支持回滚，一旦 EXEC 命令被调用，所有命令都会被执行，即使有些命令可能执行失败。" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="296.03" y="-740" width="150" height="50" as="geometry" />
+          <mxGeometry x="327" y="-744" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vmPkMJgBcQKJt-pwfi7v-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vmPkMJgBcQKJt-pwfi7v-189" target="vmPkMJgBcQKJt-pwfi7v-191" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -558,97 +558,97 @@
         <mxCell id="vmPkMJgBcQKJt-pwfi7v-191" value="可以使用 Redis 的 SETNX 命令实现简单的分布式锁。比如 &lt;code&gt;SET key value NX PX 3000&lt;/code&gt; 就创建了一个锁名为 &lt;code&gt;key&lt;/code&gt; 的分布式锁，锁的持有者为 &lt;code&gt;value&lt;/code&gt;。NX 保证只有在 key 不存在时才能创建成功，EX 设置过期时间用以防止死锁。" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1056" y="370" width="383" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="IddMJPemw8FOrO92rj6B-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IddMJPemw8FOrO92rj6B-2" target="IddMJPemw8FOrO92rj6B-4">
+        <mxCell id="IddMJPemw8FOrO92rj6B-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IddMJPemw8FOrO92rj6B-2" target="IddMJPemw8FOrO92rj6B-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="210" y="599" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IddMJPemw8FOrO92rj6B-2" value="Redis的集群类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IddMJPemw8FOrO92rj6B-2" value="Redis的集群类型" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="311.03" y="500" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IddMJPemw8FOrO92rj6B-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IddMJPemw8FOrO92rj6B-4" target="IddMJPemw8FOrO92rj6B-26">
+        <mxCell id="IddMJPemw8FOrO92rj6B-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IddMJPemw8FOrO92rj6B-4" target="IddMJPemw8FOrO92rj6B-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IddMJPemw8FOrO92rj6B-4" value="&lt;div&gt;主从复制&lt;/div&gt;&lt;div&gt;哨兵模式&lt;/div&gt;&lt;div&gt;分片集群&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IddMJPemw8FOrO92rj6B-4" value="&lt;div&gt;主从复制&lt;/div&gt;&lt;div&gt;哨兵模式&lt;/div&gt;&lt;div&gt;分片集群&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="200" y="525" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IddMJPemw8FOrO92rj6B-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IddMJPemw8FOrO92rj6B-6">
+        <mxCell id="IddMJPemw8FOrO92rj6B-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IddMJPemw8FOrO92rj6B-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="724" y="997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IddMJPemw8FOrO92rj6B-13" value="功能" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IddMJPemw8FOrO92rj6B-11">
+        <mxCell id="IddMJPemw8FOrO92rj6B-13" value="功能" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IddMJPemw8FOrO92rj6B-11" vertex="1" connectable="0">
           <mxGeometry x="0.1977" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IddMJPemw8FOrO92rj6B-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IddMJPemw8FOrO92rj6B-6" target="IddMJPemw8FOrO92rj6B-19">
+        <mxCell id="IddMJPemw8FOrO92rj6B-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="IddMJPemw8FOrO92rj6B-6" target="IddMJPemw8FOrO92rj6B-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IddMJPemw8FOrO92rj6B-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IddMJPemw8FOrO92rj6B-6" target="IddMJPemw8FOrO92rj6B-22">
+        <mxCell id="IddMJPemw8FOrO92rj6B-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="IddMJPemw8FOrO92rj6B-6" target="IddMJPemw8FOrO92rj6B-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IddMJPemw8FOrO92rj6B-6" value="哨兵模式" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IddMJPemw8FOrO92rj6B-6" value="哨兵模式" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="524" y="967" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IddMJPemw8FOrO92rj6B-12" value="&lt;div&gt;监控 确保主节点和随从节点能够被链接&lt;/div&gt;&lt;div&gt;故障恢复，主节点宕机后从从节点里面选取一个当做新的主节点&lt;/div&gt;&lt;div&gt;通知 ： 故障转移后通知redis客户端问题，&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IddMJPemw8FOrO92rj6B-12" value="&lt;div&gt;监控 确保主节点和随从节点能够被链接&lt;/div&gt;&lt;div&gt;故障恢复，主节点宕机后从从节点里面选取一个当做新的主节点&lt;/div&gt;&lt;div&gt;通知 ： 故障转移后通知redis客户端问题，&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="729.24" y="960" width="560" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IddMJPemw8FOrO92rj6B-15" value="&lt;div&gt;主观下线&lt;/div&gt;&lt;div&gt;客观下线&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IddMJPemw8FOrO92rj6B-15" value="&lt;div&gt;主观下线&lt;/div&gt;&lt;div&gt;客观下线&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="1050" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IddMJPemw8FOrO92rj6B-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.001;entryY=0.603;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IddMJPemw8FOrO92rj6B-6" target="IddMJPemw8FOrO92rj6B-15">
+        <mxCell id="IddMJPemw8FOrO92rj6B-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.001;entryY=0.603;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IddMJPemw8FOrO92rj6B-6" target="IddMJPemw8FOrO92rj6B-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IddMJPemw8FOrO92rj6B-18" value="机制" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IddMJPemw8FOrO92rj6B-16">
+        <mxCell id="IddMJPemw8FOrO92rj6B-18" value="机制" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IddMJPemw8FOrO92rj6B-16" vertex="1" connectable="0">
           <mxGeometry x="-0.0409" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IddMJPemw8FOrO92rj6B-17" value="&lt;div&gt;规定时间内，集群节点没有回复哨兵命令，认为&lt;b&gt;主观下线&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;大半哨兵节点没有回复信息，认为客观下线&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IddMJPemw8FOrO92rj6B-17" value="&lt;div&gt;规定时间内，集群节点没有回复哨兵命令，认为&lt;b&gt;主观下线&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;大半哨兵节点没有回复信息，认为客观下线&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="1065" width="560" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IddMJPemw8FOrO92rj6B-19" value="选取主节点的机制" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IddMJPemw8FOrO92rj6B-19" value="选取主节点的机制" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="1155" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IddMJPemw8FOrO92rj6B-21" value="&lt;div&gt;1.按照初始设计的优先级进行选点&lt;/div&gt;&lt;div&gt;2.按照从节点的偏移量offset进行选点，offset越大信息越新&lt;/div&gt;&lt;div&gt;3.按照从节点的id进行选取。&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IddMJPemw8FOrO92rj6B-21" value="&lt;div&gt;1.按照初始设计的优先级进行选点&lt;/div&gt;&lt;div&gt;2.按照从节点的偏移量offset进行选点，offset越大信息越新&lt;/div&gt;&lt;div&gt;3.按照从节点的id进行选取。&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="1169" width="560" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IddMJPemw8FOrO92rj6B-22" value="处理脑裂问题" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IddMJPemw8FOrO92rj6B-22" value="处理脑裂问题" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="524" y="1115" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IddMJPemw8FOrO92rj6B-24" value="&lt;div&gt;脑裂出现是由于，哨兵无法感应到主节点，出现在不同的网络分区。&lt;/div&gt;&lt;div&gt;与从节点不在同一分区，无法进行数据同步&lt;/div&gt;&lt;div&gt;&lt;b&gt;处理方式，&lt;/b&gt;直接从子节点选取一个节点作为主节点，当旧的主节点恢复后就设置为从节点&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IddMJPemw8FOrO92rj6B-24" value="&lt;div&gt;脑裂出现是由于，哨兵无法感应到主节点，出现在不同的网络分区。&lt;/div&gt;&lt;div&gt;与从节点不在同一分区，无法进行数据同步&lt;/div&gt;&lt;div&gt;&lt;b&gt;处理方式，&lt;/b&gt;直接从子节点选取一个节点作为主节点，当旧的主节点恢复后就设置为从节点&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="477" y="1250" width="560" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IddMJPemw8FOrO92rj6B-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.192;entryY=-0.06;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IddMJPemw8FOrO92rj6B-22" target="IddMJPemw8FOrO92rj6B-24">
+        <mxCell id="IddMJPemw8FOrO92rj6B-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.192;entryY=-0.06;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IddMJPemw8FOrO92rj6B-22" target="IddMJPemw8FOrO92rj6B-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IddMJPemw8FOrO92rj6B-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IddMJPemw8FOrO92rj6B-26" target="IddMJPemw8FOrO92rj6B-29">
+        <mxCell id="IddMJPemw8FOrO92rj6B-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="IddMJPemw8FOrO92rj6B-26" target="IddMJPemw8FOrO92rj6B-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IddMJPemw8FOrO92rj6B-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IddMJPemw8FOrO92rj6B-26" target="IddMJPemw8FOrO92rj6B-31">
+        <mxCell id="IddMJPemw8FOrO92rj6B-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="IddMJPemw8FOrO92rj6B-26" target="IddMJPemw8FOrO92rj6B-31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="140" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IddMJPemw8FOrO92rj6B-26" value="分片集群模式" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IddMJPemw8FOrO92rj6B-26" value="分片集群模式" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="508.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IddMJPemw8FOrO92rj6B-29" value="&lt;div&gt;主要处理高并发写的场景，或者海量数据&lt;/div&gt;&lt;div&gt;&lt;b&gt;特点：集群当中有多个master和多个从节点，master存储不同的信息&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;master之间互相ping，（心跳机制）不需要设置哨兵&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IddMJPemw8FOrO92rj6B-29" value="&lt;div&gt;主要处理高并发写的场景，或者海量数据&lt;/div&gt;&lt;div&gt;&lt;b&gt;特点：集群当中有多个master和多个从节点，master存储不同的信息&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;master之间互相ping，（心跳机制）不需要设置哨兵&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-177.35999999999999" y="495.25" width="190.73" height="84.75" as="geometry" />
         </mxCell>
-        <mxCell id="IddMJPemw8FOrO92rj6B-31" value="客户端如何访问节点数据" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IddMJPemw8FOrO92rj6B-31" value="客户端如何访问节点数据" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-107" y="600" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IddMJPemw8FOrO92rj6B-33" value="引入hash槽的概念，可以通过key来生成hashcode。hashcode对16384位进行取余运算" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IddMJPemw8FOrO92rj6B-33" value="引入hash槽的概念，可以通过key来生成hashcode。hashcode对16384位进行取余运算" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-320" y="595.25" width="190.73" height="84.75" as="geometry" />
         </mxCell>
-        <mxCell id="IddMJPemw8FOrO92rj6B-34" value="&lt;div&gt;1.引入消息队列来保证缓存最终被删除，比如说在数据库更新的事务中插入一条本地消息记录，事务提交后异步发送给 MQ 进行缓存删除。&lt;/div&gt;&lt;div&gt;2.使用 &lt;a rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot; href=&quot;https://github.com/alibaba/canal&quot;&gt;Canal&lt;/a&gt; 监听 MySQL 的 binlog，在数据更新时，将数据变更记录到消息队列中，消费者消息监听到变更后去删除缓存。&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IddMJPemw8FOrO92rj6B-34" value="&lt;div&gt;1.引入消息队列来保证缓存最终被删除，比如说在数据库更新的事务中插入一条本地消息记录，事务提交后异步发送给 MQ 进行缓存删除。&lt;/div&gt;&lt;div&gt;2.使用 &lt;a rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot; href=&quot;https://github.com/alibaba/canal&quot;&gt;Canal&lt;/a&gt; 监听 MySQL 的 binlog，在数据更新时，将数据变更记录到消息队列中，消费者消息监听到变更后去删除缓存。&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-440" y="-380" width="380" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IddMJPemw8FOrO92rj6B-35" value="&lt;div&gt;这种情况可以概括为&lt;/div&gt;&lt;div&gt;1.先修改数据库后删除缓存&lt;/div&gt;&lt;div&gt;2.先删除缓存后修改数据库&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IddMJPemw8FOrO92rj6B-35" value="&lt;div&gt;这种情况可以概括为&lt;/div&gt;&lt;div&gt;1.先修改数据库后删除缓存&lt;/div&gt;&lt;div&gt;2.先删除缓存后修改数据库&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-325" y="-310" width="150" height="98.5" as="geometry" />
         </mxCell>
       </root>
